@@ -63,8 +63,8 @@ All content, and branding related to Auspixx are protected and may not be copied
 We’d love to work with you.
 
 - 🌍 Website: https://auspixx.com  
-- 📧 Email: nit474011gwl@gmail.com  
-- 📱 Phone: +91 8269543305  
+- 📧 Email: support@auspixx.com
+- 📱 Phone: +91 8789293796
 
 ## 📄 License
 
